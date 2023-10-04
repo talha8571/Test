@@ -2,4 +2,8 @@
 
 2. my name is talhah from b folder
 
+<<<<<<< HEAD
 4. bingo from b
+=======
+3. from a 
+>>>>>>> e991bf424d4f072cf8d91ae654c15a52fc9d6392
